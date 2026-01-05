@@ -49,13 +49,13 @@ git clone
 - https://github.com/Divyasree00/blackspot.git
 
 3. Go to the project folder
--cd blackspot
+- cd blackspot
 
 4. Install dependencies
--npm install
+- npm install
 
 5. Start the app
--npm run dev
+- npm run dev
 
 ## How Multiplayer Works
 
