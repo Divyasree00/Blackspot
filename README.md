@@ -45,7 +45,7 @@ live:[https://blackspot-156b7.web.app/](https://blackspot-156b7.web.app/)
 ## How to Run Locally
 
 1. Clone the repository
-git clone https://github.com/your-username/blackspot.git
+git clone https://github.com/Divyasree00/blackspot.git
 
 2. Go to the project folder
 cd blackspot
