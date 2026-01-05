@@ -1,0 +1,5 @@
+﻿@import "tailwindcss";
+
+
+html, body, #root { height: 100%; }
+body { @apply bg-gradient-to-br from-indigo-50 to-pink-50; }
