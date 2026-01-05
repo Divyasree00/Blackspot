@@ -45,16 +45,17 @@ live:[https://blackspot-156b7.web.app/](https://blackspot-156b7.web.app/)
 ## How to Run Locally
 
 1. Clone the repository
-git clone https://github.com/Divyasree00/blackspot.git
+git clone
+- https://github.com/Divyasree00/blackspot.git
 
-2. Go to the project folder
-cd blackspot
+3. Go to the project folder
+-cd blackspot
 
-3. Install dependencies
-npm install
+4. Install dependencies
+-npm install
 
-4. Start the app
-npm run dev
+5. Start the app
+-npm run dev
 
 ## How Multiplayer Works
 
